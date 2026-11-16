@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    android:gravity="top"
+    android:orientation="horizontal">
+
+    <!-- Step number badge -->
+    <TextView
+        android:id="@+id/tvStepNumber"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_gravity="top"
+        android:background="@drawable/bg_pill_mint"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="@color/primary"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvStepDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_marginStart="12dp"
+        android:layout_weight="1"
+        android:lineSpacingMultiplier="1.25"
+        android:paddingTop="2dp"
+        android:paddingBottom="8dp"
+        android:text="Kupas kulit bawang merah &amp; bawang putih, cuci bersih lalu iris halus."
+        android:textColor="@color/text_primary"
+        android:textSize="13sp" />
+
+</LinearLayout>

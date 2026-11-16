@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CookCompile</string>
+    <string name="tagline">Resep Mudah Dicoba</string>
+    <string name="splash_hero_title">Ayo\nMemasak</string>
+    <string name="splash_hero_desc">Temukan resep masakan rumahan favoritmu</string>
+    <string name="start_cooking">Mulai Masak</string>
+
+    <string name="login_title">Masuk Akun</string>
+    <string name="login_subtitle">Masuk untuk menjelajahi 1.000+ resep masakan &amp; cemilan favorit.</string>
+    <string name="label_email">Alamat Email</string>
+    <string name="hint_email">nama@email.com</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="hint_password">••••••••</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_skip_login">Lihat Resep Tanpa Login</string>
+    <string name="login_footer">Aplikasi CookCompile • Masakan &amp; Cemilan Rumahan</string>
+
+    <string name="nav_home">Beranda</string>
+    <string name="nav_saved">Tersimpan</string>
+    <string name="nav_profile">Profil</string>
+</resources>

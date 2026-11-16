@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary Colors (Figma: #008B6E) -->
+    <color name="primary">#008B6E</color>
+    <color name="primary_dark">#007058</color>
+    <color name="primary_light">#E6F7F2</color>
+    <color name="primary_surface">#F0FBF7</color>
+
+    <!-- Category Badges -->
+    <color name="badge_masakan_bg">#E0F2F1</color>
+    <color name="badge_masakan_text">#00796B</color>
+    <color name="badge_cemilan_bg">#FFF3E0</color>
+    <color name="badge_cemilan_text">#D97706</color>
+
+    <!-- Star & Ratings -->
+    <color name="star_amber">#F59E0B</color>
+
+    <!-- Destructive / Danger -->
+    <color name="destructive_bg">#FEE2E2</color>
+    <color name="destructive_text">#EF4444</color>
+
+    <!-- Neutrals & Surfaces -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider">#F1F5F9</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_placeholder">#CBD5E1</color>
+
+    <!-- Standard -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
