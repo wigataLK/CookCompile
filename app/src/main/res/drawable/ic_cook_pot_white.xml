@@ -43,7 +43,7 @@
 
     <!-- Inner Culinary Leaf Pair -->
     <path
-        android:fillColor="#008B6E"
+        android:fillColor="#2E6F40"
         android:pathData="M11.9,18.8 C10.0,18.6 8.8,17.2 9.2,15.3 C10.9,15.2 12.1,16.6 11.9,18.8 Z" />
     <path
         android:fillColor="#10B981"

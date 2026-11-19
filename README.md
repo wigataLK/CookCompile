@@ -6,7 +6,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/100%25%20Pure-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="100% Pure Kotlin" />
-    <img src="https://img.shields.io/badge/Design-Material%20Design%203-008B6E?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design 3" />
+    <img src="https://img.shields.io/badge/Design-Material%20Design%203-2E6F40?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design 3" />
     <img src="https://img.shields.io/badge/Katalog-1.050%2B%20Resep%20Nusantara-F59E0B?style=flat-square" alt="1.050+ Resep Nusantara" />
     <img src="https://img.shields.io/badge/Data-Offline%20%2B%20Cloud%20Sync-059669?style=flat-square" alt="Offline + Cloud Sync" />
     <img src="https://img.shields.io/badge/Platform-Android%207.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+" />
